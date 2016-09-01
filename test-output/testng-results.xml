@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="11412" started-at="2016-09-01T05:24:43Z" finished-at="2016-09-01T05:24:54Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="11412" started-at="2016-09-01T05:24:43Z" finished-at="2016-09-01T05:24:54Z">
+      <class name="com.app.automation.WebPageAutomation">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.app.automation.WebPageAutomation@51565ec2]" name="beforeTest" is-config="true" duration-ms="4243" started-at="2016-08-31T22:24:43Z" finished-at="2016-08-31T22:24:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="launchWebApp()[pri:0, instance:com.app.automation.WebPageAutomation@51565ec2]" name="launchWebApp" duration-ms="2762" started-at="2016-08-31T22:24:47Z" finished-at="2016-08-31T22:24:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchWebApp -->
+        <test-method status="PASS" signature="testMobilePage()[pri:1, instance:com.app.automation.WebPageAutomation@51565ec2]" name="testMobilePage" duration-ms="415" started-at="2016-08-31T22:24:50Z" finished-at="2016-08-31T22:24:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMobilePage -->
+        <test-method status="PASS" signature="verifyItemSortByName()[pri:2, instance:com.app.automation.WebPageAutomation@51565ec2]" name="verifyItemSortByName" duration-ms="397" started-at="2016-08-31T22:24:50Z" finished-at="2016-08-31T22:24:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyItemSortByName -->
+        <test-method status="PASS" signature="compareItemPrice()[pri:3, instance:com.app.automation.WebPageAutomation@51565ec2]" name="compareItemPrice" duration-ms="1070" started-at="2016-08-31T22:24:51Z" finished-at="2016-08-31T22:24:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- compareItemPrice -->
+        <test-method status="PASS" signature="verifyAddCartItems()[pri:4, instance:com.app.automation.WebPageAutomation@51565ec2]" name="verifyAddCartItems" duration-ms="2429" started-at="2016-08-31T22:24:52Z" finished-at="2016-08-31T22:24:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddCartItems -->
+        <test-method status="PASS" signature="destroyEnvironnment()[pri:0, instance:com.app.automation.WebPageAutomation@51565ec2]" name="destroyEnvironnment" is-config="true" duration-ms="84" started-at="2016-08-31T22:24:54Z" finished-at="2016-08-31T22:24:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- destroyEnvironnment -->
+      </class> <!-- com.app.automation.WebPageAutomation -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

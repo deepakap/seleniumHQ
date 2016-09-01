@@ -1,0 +1,12 @@
+com/app/factory/ExtractWebElements.class
+com/app/page/models/MobilePage.class
+com/app/page/models/ShoppingCart.class
+com/app/eventsLogger/EventHandler.class
+com/app/baseLogic/SortLogic.class
+com/app/hq/App.class
+com/app/manager/WebDrivermanager.class
+com/app/page/models/MobileFeature.class
+com/app/automation/WebPageAutomation.class
+com/app/util/PageUtils.class
+com/app/page/models/HomePage.class
+com/app/waitEvt/AccessBaseWebElements.class
